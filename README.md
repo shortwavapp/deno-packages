@@ -1,6 +1,6 @@
 # deno-packages
 
-A repository for [Deno](libraries)
+A repository for [Deno](https://deno.land/) libraries.
 
 ## How to use
 
